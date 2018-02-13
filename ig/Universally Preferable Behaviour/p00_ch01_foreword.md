@@ -80,7 +80,7 @@ Akaram n'ime uwe ah, bu ikowa otu ako ga enwe isi ihe dimkpa gbasar ya, otu osi 
 I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
 Amamu n’ugbua, Iga-enwe mmalite obi. Anama ghota n’onwere nwoke no n’ezi internet – uno uwa ndi ara – enwego otu og’ruzi nsogbu echiche uwa digazi ntakiri – n’ime iheneme, fa ga da moburu na fa chori wepu onwe fa 
 
-Still, not quite zero.
+Mana, fa enweghi ike ida
 Mana, fa enweghi ike ida
 
 
