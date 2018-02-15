@@ -1,58 +1,61 @@
-## Foreword
+Oganiru
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+N'imeakukomgbeoche, owenreAgusirikenkeukwu, dragon ahu m'obu basilisk, naemegbuobodo di yanso. Ndiobibiwenreegwun'ihuagu ahu; fa naatuaja di icheiche, fa wenreikei'gbuanumanu, m'obu yen ya'ego, m'obugbuommadun'obiiwen'ikekasi obi ya, yae'gbunaonyeozo.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+Ufodundimmadu, nozin'okpuruAgu ahu, makana fa na'atuegwu "akon'uche", mana Otutundimmadu --ufoduna-akpondi-aruluma, wenre-obi m'obuishi-ike-- kwezuruna fa agahiatuaja, kama fa gha-nwu. Afobialu wen-ghafe, ndi-mmadufuchaluumuumu fa, ochichibialu-ghafe, ndikwerechirina fa agahiatuAgu ahu aja, jisrike, nralunaakoichufuAgu ahu.
 
-Try – and fail.
+Mgebobuna fa jirike me ya, otu'ahukasi a da.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Agu ahu, buonyemmuo; ndiobibin'obodo ewenro ndidi maka na Agu ahu di njo, O wenro obi nwanne. ihendia mere aja nine fa naachu, buruihenlafu.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Ndiobibi ewenhizi ezumike, fa bidozie icho nwoke gbaragba.onyegaenye fa aka IchufuAgu ahu.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Ofunwokekara-obi putalunimezi fa, sin'oga-achufuAgu ahu n'ekweroka fa zurike.Nwoke putarunu, bunwaoyena'aruziamkpo-ukwu, boyionyena'eme fa achicha - mobuufodu, onyenzuzu.
 
-This book is the story of my personal assault on just such a beast.
+Akwukwo a-nuabuakukonkembayenreimegbuAgundiozo di kanke di n'uwe.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+'Agu' ahu buikwerenaife di omimi, ifendimmaduewenrikeime. Moburuife di mkpa, mobuife di mma, mobuifendibekeen'eme, nankeuwan'eme. Agu ahu bunroakon'uche, nke di n'uwa-ebeben'imeochichi di njonammuoojo, fa n'emekandimmadu me ya, onyeju; fa egbuoya, makaihe fa jiriamutaife, mana fa chefurueziokwunankowaofuma. "Agu ahu" bunroakon'uche, anurianyinaanuri obi anyi, anyigaewenfuyamakandiokenye no n'uwa, mana anyigahafuyan'imeahihiakandimmadu zo fa okpa, nandiezemmuonandiozo(ochichi) zuo fa ori -- nandinnenanna. Agu ahu bunro ne eweghinnenanna, n'emegbundimmuo; nandiozo(ochichi), anyieweghiikeibunanjoofu-ugboro.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
-The cost to mankind has been enormous.
+Agu ahu emerigodimpaotutu, bidona Socrates we gafee Plato je kwuru Augustine na Hume, we rute Kant yana Rand
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Ihe a ewutegondimmadunkeukwu
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Ebeanyiewerikeikowaiwuanyik'odimma, we daban'uwaanyi no kokuzirianyiako, Uwaemezianyi me umuakaegwu, jizieakuko religion a tu fa egwu, m'obu ye fa egbe, m'obunga, m'obutinye fa n'otundiuweoji, m'obukponye fa n'akandiochichin'emenjokporoonwe fa "govermenti".
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Ebe ife anyi kporo "IWU" bu ife anyi ji emegbu ndim mmadu, naife di ofele, anyi akwuruzi n'kwuta njo di icheiche di ka, imegbundi no n'okpuruanyi, egwu, na ogu kanyi wenr'ike igwandi mmadu ihe ka fa me. Ebe "Iwu" enweghi ihe dimma n'aka ndi bekee n'imeya "ako" eburuzia ogun'imeotutuobodomakaugha.obodoobunanaagumakaiweokwu "n'ako" ndimmadukweyenre.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Oburuna anyi eweghi ako, anyi eweghi ike ibu bi ebea, mana anyi eweghi ike ikowa ife "ako" bu - anyi anoruzie ka afifia zite n'ugbua rute ebebe, n'ebizi ndu nlafu na boyi.
 
-In many ways, the stakes are getting even higher.
+N'obianyi, onweghi ife kacha ife anyi na afu. Ako ahu anyi enweghi ike ikowa, emego religion na ochichi gbushishia ndi mmadu.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ife aamalite go na otutu uzor,
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+Otu interneti na agbasaozi, emego ndi mmadu bido iwe obi abuo, na ife ha na'akpor ako bu akuko mgbeochie ndi okenye n'atu-asi n akor.Ezi-ashi ndi ochichi nakor -- na ikwere ndi no n'okpuru fa --aputa go n'ife.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+"Eziokwu" aputa go ife kangha; "ako" ka mmegbu; "inoyelu" ka boyi ya na ife fa kporo "akon'uche" .
+aputago ife kaihe egwuregwu fa mere irogbu ndi n'eweghi ike na ndi na'atuegwu ka fa gbazie boyi.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+Eziokwu ah amutago umu nihi listi, otu osi we eme na Germany n'afo iri n'itolu. Ndi ah buru njo nke ukwu na'hapu otutu ndi mgbakute ogwu fa, ka ndi shi na fa kacha maru. Ndiuwa, a gafego ife ala fa n'eme, mana kita, fa na'fuzi eziokwu nine ka ihe ndi ochichi choro ka'ome. Umuaka wenre anya ukwu, emeruka fa "mara ife", fa na'afuzi nkata kaa verti, ife ndi mmadu shina fa maruka propaganda, na ako nine ka ura
+.
+Ebe anyi eneghi ofu okwu n'isi ihe dimma maka ihe ako, "ako" aburuzie ife mmadu aman nghota, na ogu mmadu enweghi gba-oso. N'mbu, otu religion gu'logu n'enweghi njedebe maka iwe okwu n'isi mma aristocracy, kita n'emezi mgba n'isi ihe mmadu amanghota bu ako, ya na ihe nine fa choro.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Ako aburuzie ka nwanne bekee, dika medieval "astronomy" mere astronomy bekee -- uwa nro ura, fa mere ndi mmadu me, maka akuko fa na'kor, iwu, egwu -- n'egbochi uzor oganiru n'ebe eziokwu nor.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Agu ahu wenre iwu nwanne di n'enuanyi, n'achuanyi oso, kwere na tax, nga, ogu na censorshipu. O jiri umuaka anyi eme boyi n'uloakwukwo, naochicheuka; O mere nwogbenyenoron'imeafufu, mana ndi umuaka ndi nne aka ra amuputa n'ime uwa obodo.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+N'ime Akwukwo edem tupu mbido debe nk'a, gbasara 'Eziokwu: Njo nro," ura n'ime iwu mmadu enweghi ike ikowa, bu akuko ahu anyi n'egosi umu anyi ka obu ihe dimkpa, ebe n'imeezi okwu, fa bu ihe ala. Ife mere ndi bekee achoro ochichi bu na ndi bekee wenre ife dimkpa fa ga-eme gbasara ogudigasi n'etiti fa; otu ndi bekee ga ame. 
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+Ife kpata Ako bekee -- na Ako kemgbe oche -- bido n'imegbu umuaka, na imegbu okenye, bu ura na gbochi eziokwu.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+Eziokwubu, anyi choro ako; ura ahun bu muo na ndi ochichi weren ike ituaghia ura ka'obuzi eziokwu.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Akaram n'ime uwe ah, bu ikowa otu ako ga enwe isi ihe dimkpa gbasara ya, otu osi eme, ka'odiri otu mmadu ga aghota, ka’odimfe – ya na eziokwu.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Amamu n’ugbua, Iga-enwe mmalite obi.Anama ghota n’onwere nwoke no n’ezi internet – uno uwandi ara – enwego otu og’ruzi nsogbu echiche uwadigazi ntakiri – n’ime ihe neme, fa ga da moburuna fa chor iwepu onwe fa 
 
-Still, not *quite* zero.
+Mana, fa enweghi ike ida
+
 
 ### Ground Rules
 
